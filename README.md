@@ -26,7 +26,7 @@ The **Credit Risk Modeling** project aims to assess an individual's credit risk 
 ## Installation & Usage
 ### Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/Harini-Nagula9/CREDIT-RISK-MODELLING.git
 cd credit-risk-modeling
 ```
 

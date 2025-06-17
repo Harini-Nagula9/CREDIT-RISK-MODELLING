@@ -29,6 +29,7 @@ The **Credit Risk Modeling** project aims to assess an individual's credit risk 
 git clone https://github.com/Harini-Nagula9/CREDIT-RISK-MODELLING.git
 cd credit-risk-modeling
 ```
+Try the App here: https://credit-risk-modelling-by-harini.streamlit.app/
 
 Install Dependencies
 pip install -r requirements.txt
@@ -37,10 +38,9 @@ Run Locally
 streamlit run app.py
 
 Deployment
+
 The project is deployed on Streamlit Community Cloud. You can access the live version here once published.
 Future Enhancements
-Try the App here: https://credit-risk-modelling-by-harini.streamlit.app/
-
 - Enhance accuracy with additional machine learning models.
 - Improve visualization with interactive charts and analytics.
 - Expand user input options for deeper financial insights.
